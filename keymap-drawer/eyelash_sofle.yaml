@@ -61,8 +61,8 @@ layers:
   - $$mdi:keyboard-space$$
   - '2'
   - $$mdi:keyboard-space$$
-  - RGUI
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - MENU
+  - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-control$$
   layer_1:
   - {t: '`', s: '~'}
