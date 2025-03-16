@@ -61,7 +61,7 @@ layers:
   - $$mdi:keyboard-space$$
   - '2'
   - $$mdi:keyboard-space$$
-  - MENU
+  - CONTEXT MENU
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-control$$
   layer_1:
