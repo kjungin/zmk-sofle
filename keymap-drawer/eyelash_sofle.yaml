@@ -62,8 +62,8 @@ layers:
   - $$mdi:keyboard-space$$
   - '2'
   - $$mdi:keyboard-space$$
+  - APP
   - {t: '''', s: '"'}
-  - APPLICATION
   - $$mdi:apple-keyboard-control$$
   layer_1:
   - {t: '`', s: '~'}
